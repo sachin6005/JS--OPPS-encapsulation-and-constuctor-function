@@ -1,0 +1,1 @@
+# JS--OPPS-encapsulation-constuctor-function
